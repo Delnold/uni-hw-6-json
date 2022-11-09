@@ -1,0 +1,15 @@
+E:\University\RiderProjects\JSON_HW\JSON_HW\bin\Debug\net6.0\JSON_HW.exe
+E:\University\RiderProjects\JSON_HW\JSON_HW\bin\Debug\net6.0\JSON_HW.deps.json
+E:\University\RiderProjects\JSON_HW\JSON_HW\bin\Debug\net6.0\JSON_HW.runtimeconfig.json
+E:\University\RiderProjects\JSON_HW\JSON_HW\bin\Debug\net6.0\JSON_HW.dll
+E:\University\RiderProjects\JSON_HW\JSON_HW\bin\Debug\net6.0\JSON_HW.pdb
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.csproj.AssemblyReference.cache
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.AssemblyInfoInputs.cache
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.AssemblyInfo.cs
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.csproj.CoreCompileInputs.cache
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.dll
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\refint\JSON_HW.dll
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.pdb
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\JSON_HW.genruntimeconfig.cache
+E:\University\RiderProjects\JSON_HW\JSON_HW\obj\Debug\net6.0\ref\JSON_HW.dll
