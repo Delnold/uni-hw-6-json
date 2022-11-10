@@ -1,0 +1,15 @@
+E:\University\RiderProjects\JSON_HW\GooglForms\bin\Debug\net6.0\GooglForms.exe
+E:\University\RiderProjects\JSON_HW\GooglForms\bin\Debug\net6.0\GooglForms.deps.json
+E:\University\RiderProjects\JSON_HW\GooglForms\bin\Debug\net6.0\GooglForms.runtimeconfig.json
+E:\University\RiderProjects\JSON_HW\GooglForms\bin\Debug\net6.0\GooglForms.dll
+E:\University\RiderProjects\JSON_HW\GooglForms\bin\Debug\net6.0\GooglForms.pdb
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.csproj.AssemblyReference.cache
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.AssemblyInfoInputs.cache
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.AssemblyInfo.cs
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.csproj.CoreCompileInputs.cache
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.dll
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\refint\GooglForms.dll
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.pdb
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\GooglForms.genruntimeconfig.cache
+E:\University\RiderProjects\JSON_HW\GooglForms\obj\Debug\net6.0\ref\GooglForms.dll

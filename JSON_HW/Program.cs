@@ -33,7 +33,15 @@ static void Serialization()
 {
     var book_info = new PublishingHouseInfo(1, "Oracle", "Adress 200");
     var book_1 = new Books(10, "NodeJs_In_Action", book_info);
-    Console.WriteLine(JsonSerializer.Serialize(book_1));
+    var options = new JsonSerializerOptions
+    {
+        WriteIndented = true,
+        IncludeFields = true,
+        DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingDefault
+    };
+    Console.WriteLine(JsonSerializer.Serialize(book_1,options));
+    string path = @"E:\University\RiderProjects\JSON_HW\JSON_HW\JSON_HW.json";
+    File.WriteAllText(path,JsonSerializer.Serialize(book_1));
 }
 public class Books
 {
