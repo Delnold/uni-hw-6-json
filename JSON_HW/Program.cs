@@ -3,7 +3,6 @@ using System.IO;
 using System.Text;
 using System.Text.Json.Serialization;
 
-
 Deserialization();
 Serialization();
 
@@ -45,9 +44,9 @@ static void Serialization()
 }
 public class Books
 {
-    //[JsonIgnore]                   // Task_2)Remove "//" To Ignore PublishingHouseId
+    [JsonIgnore]                   // Task_2)Remove "//" To Ignore PublishingHouseId
     public int PublishingHouseId { get; set; }
-    //[JsonPropertyName("Name")]     // Task_3)Remove "//" to replace "Title" with "Name"
+    [JsonPropertyName("Name")]     // Task_3)Remove "//" to replace "Title" with "Name"
     public string Title { get; set; }
     public PublishingHouseInfo PublishingHouse { get; set; }
 
